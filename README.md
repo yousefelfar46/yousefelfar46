@@ -13,6 +13,18 @@ Backend developer with a strong grasp of C# and object-oriented design, building
 - **Architecture:** OOP, SOLID, N-Tier, Design Patterns, Repository, Unit of Work, Specification, Dependency Injection
 - **Testing:** Unit Testing
 - **Tools:** Git, GitHub, Postman, Swagger, Visual Studio, SSMS
+
+ ## Featured Projects
+
+1. GymManagementSolution — Gym Management System
+
+A gym management web application built with ASP.NET Core MVC, Entity Framework Core, and SQL Server. The solution follows a layered architecture to separate presentation, business logic, and data access.
+
+Key Areas: Member Management, Trainers, Sessions, Membership Plans, Repository Pattern, Dependency Injection.
+
+Tech Stack: C#, ASP.NET Core MVC, EF Core, LINQ, SQL Server.
+
+🔗 View Project on GitHub
   
 ## Contact
 
