@@ -28,5 +28,5 @@ Backend developer with a strong grasp of C# and object-oriented design, building
   
 ## Contact
 
-- **LinkedIn:** [yousef-elfar-6a8437399](https://www.linkedin.com/in/yousef-elfar-6a8437399/)
+- **LinkedIn:** [Yousef Elsayed](https://www.linkedin.com/in/yousef-elsayed1)
 - **Email:** [yousefelfar46@gmail.com](mailto:yousefelfar46@gmail.com)
