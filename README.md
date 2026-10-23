@@ -14,6 +14,17 @@ Backend developer with a strong grasp of C# and object-oriented design, building
 - **Testing:** Unit Testing
 - **Tools:** Git, GitHub, Postman, Swagger, Visual Studio, SSMS
 
+  ## Projects
+
+- [GymCore](https://github.com/yousefelfar46/GymManagementSolution) :
+
+  * Gym management system built with ASP.NET Core MVC, EF Core,
+     and SQL Server. Covers members, trainers, sessions, memberships, and bookings.
+  
+- [E-Commerce API](https://github.com/yousefelfar46/ECommerce) :
+  
+  * RESTful API with filtering, searching, sorting, and pagination,
+     built with Repository, Unit of Work, and Specification patterns.
   
 ## Contact
 
