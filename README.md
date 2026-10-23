@@ -14,7 +14,6 @@ Backend developer with a strong grasp of C# and object-oriented design, building
 - **Testing:** Unit Testing
 - **Tools:** Git, GitHub, Postman, Swagger, Visual Studio, SSMS
 
-🔗 View Project on GitHub
   
 ## Contact
 
